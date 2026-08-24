@@ -4,3 +4,10 @@ version = "0.1.0"
 edition = "2024"
 
 [dependencies]
+clap = "4.6.6"
+pbkdf2 = "0.13.0"
+rand_core = "0.10.1"
+tokio = "1.53.1"
+tonic = "0.14.6"
+tonic-build = "0.14.6"
+uuid = "1.25.0"
